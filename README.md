@@ -1,4 +1,4 @@
-# Assignment 3
+# P2P File Transfer System
 <p> Author: Rand Halasa </p>
 <p> Date: Sunday, May 24th, 2024. 11:59 pm </p>
 
